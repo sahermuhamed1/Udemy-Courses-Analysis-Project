@@ -18,7 +18,7 @@ Udemy Courses Analysis Project using Python for EDA and Data Cleaning + Power BI
 # Intoduction🤌
 Welcome to our Udemy courses analysis Repository! In this Project, we delve into the vast array of courses available on Udemy to extract valuable insights and provide a comprehensive analysis. With the proliferation of online learning platforms like Udemy, understanding the trends, patterns, and characteristics of courses can offer valuable guidance for both learners and instructors.📈
 
-To get the project presentation click [Here](link)
+To get the project presentation click [Here](https://github.com/sahermuhamed1/Udemy-Courses-Analysis-Project/blob/main/Udemy%20Financial%20Courses%20Analysis-%20Presentation.pptx)
 
 # Overview Dashboard📈
 ![Dashboard](Dashboard1.png)
@@ -58,13 +58,13 @@ To access our dataset click [Here](https://www.kaggle.com/datasets/jilkothari/fi
 [Our Notebook is Here](finance-courses-at-udemy-eda.ipynb)
 
 # Usage✅
-Download the final dashboard from [Here](https://github.com/sahermuhamed1/Udemy-Courses-Analysis-Project/blob/main/Udemy%20Courses%20Dashboard.pbix)
+Download the final dashboard from [Here](https://github.com/sahermuhamed1/Udemy-Courses-Analysis-Project/blob/main/Udemy%20Dashboard.pbix)
 
 Download the dataset from [Here](https://www.kaggle.com/datasets/jilkothari/finance-accounting-courses-udemy-13k-course)
 
 Download the notebook from [Here](finance-courses-at-udemy-eda.ipynb)
 
-Download the presentation from [Here](Link)
+Download the presentation from [Here](https://github.com/sahermuhamed1/Udemy-Courses-Analysis-Project/blob/main/Udemy%20Financial%20Courses%20Analysis-%20Presentation.pptx)
 
 # Contact info📩
 For inquiries or further collaboration, please contact Saher Mohammed at [sahermuhamed176@gmail.com] and Abdelrahman Ashour at [abdoashour4040@gmail.com].🥰
